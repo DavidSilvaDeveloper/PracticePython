@@ -1,0 +1,22 @@
+=> COMANDOS VS CODE
+# Para configurar el interprete de python en vscode -----> Ctrl + i  Ctrl + i
+# Para abrir el selector de configuraciones -----> Ctrl + Shift + P 
+# Para abrir el buscador principal, similar al selector de configuraciones pero sin > con -------> Ctrl + T
+# Para correr el programa con SALIDA -----> Ctrl + Alt + N
+# Para debuggear el programa ----> Ctrl + Shift + D ------------> Y luego para inicial el debug ----> F5
+# Para seleccionar una fila -----> Ctrl + L
+
+=> CONSOLA INTERACTIVA DE PYTHON
+# Para correr en la consola interactiva de python dentro de la terminal selecciono el trozo de programa y lo corro con -------> Shift + Enter
+# Para limpiar la consola interactiva de python en windows ----> from os import system ----->  y luego system("cls")
+# https://micro.recursospython.com/recursos/como-limpiar-la-consola.html#:~:text=Para%20limpiar%20la%20consola%20desde,en%20el%20que%20se%20ejecute.&text=Chequeando%20el%20valor%20de%20os,sistemas%2C%20de%20la%20siguiente%20manera.
+
+=> BUENAS PRACTICAS LOCALES Y DE PYTHON 
+# Para crear el archivo .gitignore desde la consola bash ----------> touch .gitignore
+# Para cargar la configuracion por defecto de gitignore it a https://www.toptal.com/developers/gitignore
+# Para crear el archivo requirements.txt ejecutar el comando -------> pip freeze > requirements.txt
+# Para cargar todos los requirements de un proyecto ------> pip install -r requirements.txt
+# Para crear un entorno virtual y activarlo -----> py -m venv venv
+# Para inicializar el proyecto con git ------> git init
+# Para que vscode cree un archivo .json de configuracion debug predeterminado, ir a debug y crearlo configurado como python.
+
