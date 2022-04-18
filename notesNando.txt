@@ -5,6 +5,9 @@
 # Para correr el programa con SALIDA -----> Ctrl + Alt + N
 # Para debuggear el programa ----> Ctrl + Shift + D ------------> Y luego para inicial el debug ----> F5
 # Para seleccionar una fila -----> Ctrl + L
+# Manteniendo presionado alt y seleccionando con el mouse tengo multicursores
+# Para hacer multicursor, pero en una sola columna, presiono ----> Ctrl + Shift y muevo las flechas hacia arriba o abajo.
+
 
 => CONSOLA INTERACTIVA DE PYTHON
 # Para correr en la consola interactiva de python dentro de la terminal selecciono el trozo de programa y lo corro con -------> Shift + Enter
